@@ -18,6 +18,32 @@ Both datasets are merged to link customer profiles with transaction data, enabli
 
 ## Key Findings
 
+### Top Products by Sales
+
+#### 1. **Dorito Corn Chips Supreme 380g:**
+
+- **Total Sales:** $40,352.00
+- This product is the highest-grossing, contributing significantly to the overall sales. The popularity of Doritos, especially in larger pack sizes like the 380g, reflects strong demand in the snack category, possibly due to its widespread brand recognition and consumer loyalty. It might be favored by customers who value indulgent, snackable foods.
+
+#### 2. **Smiths Crinkle Chips Original Big Bag 380g:**
+
+- **Total Sales:** $36,367.60
+- As the second most profitable product, this chip variant performs very well, possibly because of its size and brand reputation. The Smiths Crinkle Chips Original flavor is a classic, which makes it a go-to choice for many consumers who seek value for money in bulk snack purchases.
+
+#### 3. **Smiths Crinkle Chips Salt & Vinegar 330g:**
+
+- **Total Sales:** $34,804.20
+- This product rounds out the top three, indicating strong performance in the salt & vinegar flavor. The specific flavor's popularity suggests it appeals to a particular consumer group with a preference for tangy, bold flavors. Like the previous Smiths product, its profitability is likely driven by its packaging and brand loyalty.
+
+#### Popular Flavors:
+The dominance of Doritos and Smiths Crinkle Chips in the top three suggests that classic flavors like cheese, salt & vinegar, and original are big winners. Consumers gravitate toward these well-established flavors, which promise familiarity and comfort.
+
+#### Larger Pack Sizes:
+All top three products are larger bag sizes (330g to 380g). This could indicate that customers are more likely to purchase bulk-sized products, possibly for family consumption or as party-sized snack packs. Larger quantities often provide better value for money, leading to higher sales.
+
+#### Brand Loyalty:
+Both Doritos and Smiths are well-established brands in the snack industry, which indicates that brand trust and recognition contribute significantly to consumer purchasing decisions.
+
 ### 1. **Total Sales by Lifestage**
 We analyzed total sales by customer lifestage and identified the following:
 - **Older demographics** (e.g., **Older Singles/Couples**, **Retirees**, **Older Families**) are the **highest spenders**. This suggests they have higher disposable incomes and prefer convenience-oriented products or premium offerings.
